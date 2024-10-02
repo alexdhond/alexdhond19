@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alexdhond
-- 👀 I’m interested in ecology, ecological data analysis, and ecotoxicology. Looking for opportunities in ecological research.
-- 🌱 I recently developed a computational approach to toxicity-normalized species sensitivity distributions, and currently work as an ORISE Fellow at the US EPA
-- 💞️ I’m looking to collaborate on anything related to ecological data analysis.
+- 👀 I’m interested in wetlands ecology and conservation.
+- 🌱 I am currently a PhD student at the University of Oxford.
+- 💞️ I’m looking to collaborate on anything related to wetlands ecology, biodiversity offsets, and ecological data analysis for conservation.
 - 📫 How to reach me: alexander.k.dhond@gmail.com
 
 <!---
